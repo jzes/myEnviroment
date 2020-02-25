@@ -1,3 +1,5 @@
+#!/bin/bash
+
 wget https://dl.pstmn.io/download/latest/linux64 -O postman.tar.gz
 tar -xzf postman.tar.gz
 sudo rm -rf /opt/Postman

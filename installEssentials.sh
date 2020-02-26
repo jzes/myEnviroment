@@ -1,4 +1,4 @@
 #!/bin/bash
 
 apt update && apt upgrade
-apt install git curl zsh gcc
+apt install -y git curl zsh gcc python python3 python3-pip python-pip
